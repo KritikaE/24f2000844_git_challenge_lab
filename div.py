@@ -3,4 +3,4 @@ def divide(a: int, b: int):
         print("Division by zero is not allowed.")
     return a / b
 
-print("divide(6, 3):", divide(6, 3))
+print("divide(6, 3):", divide(5, 5))
