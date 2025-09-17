@@ -5,8 +5,7 @@ This repository contains a simple Python project for performing basic arithmetic
 ## Features
 
 - **`main.py`**: The main module of the program.
-- **`sum.py`**: A module to perform addition.
-- **`difference.py`**: A module to perform subtraction.
+- **`AlOperations.py`**: A module to perform addition and subtraction.
 - **`mutl.py`**: A module to perform multiplication.
 - **`div.py`**: A module to perform division.
 
